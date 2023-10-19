@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/736x/61/52/95/615295e57b4d7ec924769e2cbef3c883.jpg">
+<img src="https://i.pinimg.com/564x/0d/ff/12/0dff12883e37d102981a1cbf01401a64.jpg">
 <h1>Lujen</h1>
  <pre>welcome to my account
  Student in iau programming smart devices applications</pre>
