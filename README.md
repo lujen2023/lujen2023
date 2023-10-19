@@ -1,5 +1,10 @@
-### Hi there 👋
 
+<img src="https://i.pinimg.com/736x/61/52/95/615295e57b4d7ec924769e2cbef3c883.jpg">
+<h1>Lujen</h1>
+ <pre>welcome to my account
+ Student in iau programming smart devices applications</pre>
+ 
+ 
 <!--
 **lujen2023/lujen2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
